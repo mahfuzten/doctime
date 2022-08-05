@@ -36,9 +36,9 @@ return [
     */
 
     'guards' => [
-        'web' => [
+        'patient' => [
             'driver' => 'session',
-            'provider' => 'users',
+            'provider' => 'patients',
         ],
     ],
 
@@ -60,9 +60,9 @@ return [
     */
 
     'providers' => [
-        'users' => [
+        'patients' => [
             'driver' => 'eloquent',
-            'model' => App\Models\User::class,
+            'model' => App\Models\patient::class,
         ],
 
         // 'users' => [
