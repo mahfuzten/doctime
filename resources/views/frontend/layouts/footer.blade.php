@@ -46,7 +46,7 @@
                         <h2 class="footer-title">For Patients</h2>
                         <ul>
                             <li><a href="search.html"><i class="fas fa-angle-double-right"></i> Search for Doctors</a></li>
-                            <li><a href="login.html"><i class="fas fa-angle-double-right"></i> Login</a></li>
+                            <li><a href="{{ route('login.page') }}"><i class="fas fa-angle-double-right"></i> Login</a></li>
                             <li><a href="register.html"><i class="fas fa-angle-double-right"></i> Register</a></li>
                             <li><a href="booking.html"><i class="fas fa-angle-double-right"></i> Booking</a></li>
                             <li><a href="patient-dashboard.html"><i class="fas fa-angle-double-right"></i> Patient Dashboard</a></li>
@@ -64,7 +64,7 @@
                         <ul>
                             <li><a href="appointments.html"><i class="fas fa-angle-double-right"></i> Appointments</a></li>
                             <li><a href="chat.html"><i class="fas fa-angle-double-right"></i> Chat</a></li>
-                            <li><a href="login.html"><i class="fas fa-angle-double-right"></i> Login</a></li>
+                            <li><a href="{{ route('dlogin.page') }}"><i class="fas fa-angle-double-right"></i> Login</a></li>
                             <li><a href="doctor-register.html"><i class="fas fa-angle-double-right"></i> Register</a></li>
                             <li><a href="doctor-dashboard.html"><i class="fas fa-angle-double-right"></i> Doctor Dashboard</a></li>
                         </ul>

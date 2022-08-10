@@ -20,7 +20,9 @@ class AdminAuthMiddleware
         if( Auth::guard('patient') -> check() ){
             return $next($request);
         }
-
+        elseif(Auth::guard('doctor') -> check()){
+            return $next($request);
+        }
         return redirect() -> route('login.page') -> with('warning','You are not allowed');
 
     }

@@ -20,6 +20,9 @@ class AdminAuthRedirectMiddleware
         if(Auth::guard('patient')->check()){
             return redirect() -> route('patient.dash.page');
         }
+        elseif(Auth::guard('doctor')->check()){
+            return redirect() -> route('doctor.dash.page');
+        }
         return $next($request);
     }
 }

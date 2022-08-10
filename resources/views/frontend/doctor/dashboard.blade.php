@@ -39,7 +39,7 @@
                                         <div class="dash-widget dct-border-rht">
                                             <div class="circle-bar circle-bar1">
                                                 <div class="circle-graph1" data-percent="75">
-                                                    <img src="assets/img/icon-01.png" class="img-fluid" alt="patient">
+                                                    <img src="frontend/assets/img/icon-01.png" class="img-fluid" alt="patient">
                                                 </div>
                                             </div>
                                             <div class="dash-widget-info">
@@ -54,7 +54,7 @@
                                         <div class="dash-widget dct-border-rht">
                                             <div class="circle-bar circle-bar2">
                                                 <div class="circle-graph2" data-percent="65">
-                                                    <img src="assets/img/icon-02.png" class="img-fluid" alt="Patient">
+                                                    <img src="frontend/assets/img/icon-02.png" class="img-fluid" alt="Patient">
                                                 </div>
                                             </div>
                                             <div class="dash-widget-info">
@@ -69,7 +69,7 @@
                                         <div class="dash-widget">
                                             <div class="circle-bar circle-bar3">
                                                 <div class="circle-graph3" data-percent="50">
-                                                    <img src="assets/img/icon-03.png" class="img-fluid" alt="Patient">
+                                                    <img src="frontend/assets/img/icon-03.png" class="img-fluid" alt="Patient">
                                                 </div>
                                             </div>
                                             <div class="dash-widget-info">
@@ -123,7 +123,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Richard Wilson <span>#PT0016</span></a>
                                                                 </h2>
                                                             </td>
@@ -149,7 +149,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient1.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient1.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Charlene Reed <span>#PT0001</span></a>
                                                                 </h2>
                                                             </td>
@@ -175,7 +175,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient2.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient2.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Travis Trimble  <span>#PT0002</span></a>
                                                                 </h2>
                                                             </td>
@@ -201,7 +201,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient3.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient3.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Carl Kelly <span>#PT0003</span></a>
                                                                 </h2>
                                                             </td>
@@ -227,7 +227,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient4.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient4.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Michelle Fairfax <span>#PT0004</span></a>
                                                                 </h2>
                                                             </td>
@@ -253,7 +253,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient5.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient5.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Gina Moore <span>#PT0005</span></a>
                                                                 </h2>
                                                             </td>
@@ -304,7 +304,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient6.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient6.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Elsie Gilley <span>#PT0006</span></a>
                                                                 </h2>
                                                             </td>
@@ -330,7 +330,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient7.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient7.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Joan Gardner <span>#PT0006</span></a>
                                                                 </h2>
                                                             </td>
@@ -356,7 +356,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient8.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient8.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Daniel Griffing <span>#PT0007</span></a>
                                                                 </h2>
                                                             </td>
@@ -382,7 +382,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient9.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient9.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Walter Roberson <span>#PT0008</span></a>
                                                                 </h2>
                                                             </td>
@@ -408,7 +408,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient10.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient10.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Robert Rhodes <span>#PT0010</span></a>
                                                                 </h2>
                                                             </td>
@@ -434,7 +434,7 @@
                                                         <tr>
                                                             <td>
                                                                 <h2 class="table-avatar">
-                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+                                                                    <a href="patient-profile.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="frontend/assets/img/patients/patient11.jpg" alt="User Image"></a>
                                                                     <a href="patient-profile.html">Harry Williams <span>#PT0011</span></a>
                                                                 </h2>
                                                             </td>

@@ -16,6 +16,10 @@ class FrontendController extends Controller
     {
         return view('frontend.login');
     }
+    public function showdLoginPage()
+    {
+        return view('frontend.doctorlogin');
+    }
     public function showPatientRegisterPage()
     {
         return view('frontend.patient.register');
